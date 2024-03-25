@@ -1,0 +1,7 @@
+¿Qué es MongoDB?
+
+    - Es un sistema gestor de base de datos NoSQL
+    - Cada registro se almacena en un documento en formato JSON
+        *Los documentos estan compuestos por campos.
+        *Los documentos se agrupan en colecciones.
+        *Utiliza esquemas dinamicos (permite crear colecciones sin estructura.)
